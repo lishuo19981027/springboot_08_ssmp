@@ -1,0 +1,3 @@
+# springboot_08_ssmp
+一个简单的整合SSMP的图书管理的CRUD的demo，记录一下学习springboot的过程
+前端部分的组件还是不了解
